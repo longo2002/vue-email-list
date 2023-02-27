@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,
+ol,
+menu{
+    list-style: none;
+}
+
+#app{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 50px; 
+    text-align: center;
+    font-family: sans-serif;
+}
