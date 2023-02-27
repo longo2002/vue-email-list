@@ -17,3 +17,7 @@ menu{
     text-align: center;
     font-family: sans-serif;
 }
+
+#app h1{
+    margin-bottom: 25px;
+}
